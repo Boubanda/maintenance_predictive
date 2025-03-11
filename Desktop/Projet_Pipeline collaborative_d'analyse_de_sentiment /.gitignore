@@ -7,16 +7,7 @@ __pycache__/
 *.log
 *.csv
 *.json
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.h5
-*.pt
-*.log
-*.csv
-*.json
-*.DS_Store
+.DS_Store
 .vscode/
 .venv/
 env/
@@ -24,8 +15,6 @@ node_modules/
 .idea/
 .cache/
 .ipynb_checkpoints/
-.DS_Store
 *.png
 *.jpg
 *.jpeg
-
