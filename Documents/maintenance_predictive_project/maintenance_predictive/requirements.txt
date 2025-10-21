@@ -1,0 +1,34 @@
+# ============================================================================
+# MAINTENANCE PRÉDICTIVE - Dépendances Python
+# Compatible MacBook Pro Intel + Python 3.11
+# Versions TESTÉES - Octobre 2025
+# ============================================================================
+
+# Data Science & Machine Learning
+pandas>=2.0.0
+numpy>=1.25.0
+scikit-learn>=1.3.0
+
+# Deep Learning
+tensorflow>=2.14.0
+keras>=2.14.0
+
+# Visualisation
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.17.0
+
+# Dashboard
+streamlit>=1.28.0
+
+# Utilitaires
+joblib>=1.3.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Jupyter pour EDA
+jupyter>=1.0.0
+ipykernel>=6.27.0
+
+# Optimisation et tuning
+optuna>=4.0.0
