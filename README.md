@@ -373,15 +373,10 @@ Ce projet démontre que je maîtrise :
 - [ ] SHAP values pour explainability avancée
 - [ ] A/B testing en production
 
----
-
-## 📞 Contact
-
-Pour toute question ou collaboration, n'hésitez pas à me contacter.
 
 ---
 
-**Développé par :** [Ton Nom]  
-**Date :** Octobre 2025  
+**Développé par :** BOUBANDA LEVI JUNIOR 
+**Date :** 21 Octobre 2025  
 **Status :** ✅ Production-Ready  
 **Dernière mise à jour :** Octobre 2025
