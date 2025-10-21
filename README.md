@@ -377,6 +377,9 @@ Ce projet démontre que je maîtrise :
 ---
 
 **Développé par :** BOUBANDA LEVI JUNIOR 
+
 **Date :** 21 Octobre 2025  
+
 **Status :** ✅ Production-Ready  
+
 **Dernière mise à jour :** Octobre 2025
